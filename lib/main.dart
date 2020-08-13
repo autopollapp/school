@@ -16,7 +16,7 @@ class _myappState extends State<myapp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(primarySwatch: Colors.cyan),
-      title: "Statefull widget djfhkdsjhf",
+      title: "Statefull widget",
       home: homepage(),
     );
   }
